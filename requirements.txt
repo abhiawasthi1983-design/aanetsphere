@@ -1,0 +1,4 @@
+cryptography
+openpyxl
+argon2-cffi
+pqcrypto
