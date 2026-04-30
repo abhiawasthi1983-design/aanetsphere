@@ -1,9 +1,0 @@
-
-__pycache__/
-*.pyc
-aanetsphere-build/
-venv/
-build/
-dist/
-.DS_Store
-Thumbs.db
